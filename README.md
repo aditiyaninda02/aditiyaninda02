@@ -10,12 +10,24 @@ I have a strong background in mathematics and statistics, and I use that foundat
 
 ---
 ## 👩🏻‍💻 About Me
-📊 3+ years experience in data analytics and reporting.  
+📊 4+ years experience in data analytics and reporting.  
 📈 Strong foundation in mathematics & statistics with a focus on data-driven decision making.  
 🧪 Experience in real-time analytics and performance monitoring.  
 🛠 Proficient in Python, SQL, Google Sheets, Power BI, and Looker Studio.  
 📉 Skilled in transforming raw data into clear insights and actionable recommendations.  
 🎯 Interested in real-time analytics, experimentation, and performance analysis.
+
+---
+
+## 💼 Experience
+
+| 💼 Role                          | 🏢 Company                          | 📅 Period              |
+|----------------------------------|-------------------------------------|------------------------|
+| Real-Time Analyst (RTA)          | Telus International                 | Apr 2026 - Present     |
+| Real-Time Analyst (RTA)          | Gear Inc                            | Jan 2025 - Apr 2026    |
+| RTFM (Real-Time Floor Monitoring)| Shopee Indonesia                    | Nov 2023 - Jan 2025    |
+| Data Analytics Ads               | MEA Digital Marketing               | Nov 2023 - Jan 2025    |
+| Data Entry Intern                | Badan Pusat Statistik (BPS)         | Nov 2021 - Dec 2021    |
 
 ---
 
