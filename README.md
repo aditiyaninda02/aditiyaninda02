@@ -25,11 +25,26 @@ I have a strong background in mathematics and statistics, and I use that foundat
 
 ---
 
-## 🛠 Skills
-**Languages:** Python, SQL  
-**Tools:** Google Sheets, Power BI, Looker Studio  
-**Libraries:** Pandas, NumPy, Matplotlib  
-**Core Concepts:** Statistics, A/B Testing, Data Analysis   
+## 🛠 Skills & Tools
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+### Tools
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+### Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Core Concepts
+![Statistics](https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF6F00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-6A1B9A?style=for-the-badge)
 
 ---
 
