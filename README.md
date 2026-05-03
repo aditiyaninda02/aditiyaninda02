@@ -27,7 +27,7 @@ I have a strong background in mathematics and statistics, and I use that foundat
 | Real-Time Analyst (RTA)          | Telus International                 | Apr 2026 - Present     |
 | Real-Time Analyst (RTA)          | Gear Inc                            | Jan 2025 - Apr 2026    |
 | RTFM (Real-Time Floor Monitoring)| Shopee Indonesia                    | Nov 2023 - Jan 2025    |
-| Data Analytics Ads               | MEA Digital Marketing               | Nov 2023 - Jan 2025    |
+| Data Analytics Ads               | MEA Digital Marketing               | Jan 2023 - Jun 2025    |
 | Data Entry Intern                | Badan Pusat Statistik (BPS)         | Nov 2021 - Dec 2021    |
 
 ---
