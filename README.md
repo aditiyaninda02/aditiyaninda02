@@ -81,4 +81,5 @@ I have a strong background in mathematics and statistics, and I use that foundat
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/aditiyanindaputri/  
-- Kaggle: https://kaggle.com/aditiyaninda  
+- Kaggle: https://kaggle.com/aditiyaninda
+- Medium: https://medium.com/@aditiyaninda
